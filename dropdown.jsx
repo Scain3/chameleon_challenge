@@ -54,7 +54,7 @@ class Dropdown extends PureComponent {
 class DropdownItem extends PureComponent {
   render() {
     // TODO implement me
-    <h1>Hello Wordld</h1>
+    <h1>Hello Word</h1>
   }
 }
 
